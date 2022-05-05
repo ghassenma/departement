@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+}
+
+.appTitle {
+  text-align: center;
+}
+
+.main {
+  padding: 0 16px;
+}
+
+.connectionSelection {
+  margin-bottom: 16px;
+}
+
+.connectionMain {
+  margin-bottom: 16px;
+}
+
+.connectionMessage {
+}
+
+.loginForm label {
+  margin-right: 16px;
+}
+
+.loginForm .loginForm-inputBlock {
+  padding: 8px;
+}
